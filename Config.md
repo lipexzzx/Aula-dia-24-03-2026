@@ -2,9 +2,10 @@
 First Step:
 
 Abra o Prompt de Comando e digite esses seguintes Comandos:
-    ``mkdir django_aulas``
-
-    ``cd django_aulas``
+```
+mkdir django_aulas
+cd django_aulas
+```
 
 # Explicação
 
